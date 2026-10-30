@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+evidence/live-*.jsonl
+evidence/must-not-exist.txt
