@@ -1,0 +1,14 @@
+{"type": "session", "ts": "2026-10-30T05:15:47+00:00", "code_rev": "43e074b", "dataset": "orders-v1", "python": "3.13.18", "mode": "verify", "backend": "none", "backend_version": null, "sandbox_python": "/usr/local/bin/python3.13 3.13.18", "kernel": "6.18.44-fc-v185", "host_euid": 0, "platform": "linux"}
+{"type": "control", "backend": "none", "control": "deterministic_result", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "wall_timeout", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "timeout_kills_process_tree", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "cpu_limit", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "memory_limit", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "file_size_limit", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "max_processes", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "output_truncated", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "canary_unreadable", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "network_refused", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "no_leftovers", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "env_scrubbed", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
+{"type": "control", "backend": "none", "control": "host_invisible", "passed": false, "status": "not verified", "detail": "NO_SANDBOX"}
